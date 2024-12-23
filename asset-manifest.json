@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fdcomparisonbyricha/static/css/main.e6c13ad2.css",
+    "main.js": "/fdcomparisonbyricha/static/js/main.d4af2132.js",
+    "static/js/488.5dac7149.chunk.js": "/fdcomparisonbyricha/static/js/488.5dac7149.chunk.js",
+    "index.html": "/fdcomparisonbyricha/index.html",
+    "main.e6c13ad2.css.map": "/fdcomparisonbyricha/static/css/main.e6c13ad2.css.map",
+    "main.d4af2132.js.map": "/fdcomparisonbyricha/static/js/main.d4af2132.js.map",
+    "488.5dac7149.chunk.js.map": "/fdcomparisonbyricha/static/js/488.5dac7149.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d4af2132.js"
+  ]
+}
