@@ -68,14 +68,14 @@ function App() {
       'IDBI BANK': [6.36, 7.11, 7.26, 7.31]
     },
     above3CrNoPremature: {
-      'HDFC BANK': [6.00, 6.50, 6.85, 6.75],
+      'HDFC BANK': [null, null, null, null],
       'ICICI BANK': [6.00, 7.00, 7.25, 7.40],
-      'SBI': [6.25, 6.60, 6.60, 6.75],
+      'SBI': [null, null, null, null],
       'AXIS BANK': [6.00, 6.50, 6.75, 6.85],
       'Kotak Bank': [null, null, 6.60, 7.00],
       'BANK OF BARODA': [7.55, 7.55, 7.55, 7.55],
       'INDUSIND BANK': [6.50, 7.10, 7.35, 7.45],
-      'FEDERAL BANK': [6.60, 7.10, 7.15, 7.25],
+      'FEDERAL BANK': [null, null, null, null],
       'PNB': [null, 7.05, 7.30, 7.30],
       'IDBI BANK': [null, 7.21, 7.41, 7.51]
     }
@@ -108,7 +108,7 @@ function App() {
             IDBI Bank FD Rates Analysis by Richa Rawal
           </h1>
           <p style={{ fontSize: '1.125rem', opacity: 0.9 }}>
-            Competitive Analysis Dashboard, Book your FD WITH IDBI - Call Richa Rawal +918349342304
+            Competitive Analysis Dashboard, Book your FD WITH IDBI - Send an Email to richa.rawal@idbi.co.in
           </p>
         </div>
 
@@ -228,7 +228,7 @@ function App() {
         </div>
       </div>
       
-      {/* Footer */}
+      {/* Footer
       <footer className="w-full bg-white shadow-lg mt-8 py-4 px-6">
         <div className="max-w-4xl mx-auto flex flex-wrap items-center justify-between gap-4">
           <div className="text-gray-700">
@@ -242,7 +242,7 @@ function App() {
             <span>Book your FD with IDBI Bank</span>
           </a>
         </div>
-      </footer>
+      </footer> */}
     </div>
   );
 }
