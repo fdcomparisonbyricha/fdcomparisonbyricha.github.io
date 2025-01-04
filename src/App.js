@@ -228,21 +228,18 @@ function App() {
         </div>
       </div>
       
-      {/* Footer
-      <footer className="w-full bg-white shadow-lg mt-8 py-4 px-6">
-        <div className="max-w-4xl mx-auto flex flex-wrap items-center justify-between gap-4">
+      <footer className="w-full bg-white shadow-lg mt-8 py-6 px-6">
+        <div className="max-w-4xl mx-auto flex flex-col gap-4">
           <div className="text-gray-700">
             Created by Richa Rawal
           </div>
-          <a
-            href="tel:+918349342304"
-            className="inline-flex items-center gap-2 bg-gradient-to-r from-[#006D44] to-[#004D2F] text-white px-6 py-3 rounded-lg hover:opacity-90 transition-opacity"
-          >
-            <Phone size={20} />
-            <span>Book your FD with IDBI Bank</span>
-          </a>
+          <div className="text-sm text-gray-600 mt-4 border-t pt-4">
+            <p>
+              Disclaimer: The interest rates shown are as of December 23, 2024, and have been collected from the respective bank websites. This is for informational purposes only and does not constitute financial advice. While we strive to maintain accurate and up-to-date information, rates are subject to change without notice. Please verify current rates directly with the banks before making any financial decisions. We are not responsible for any actions taken based on this information.
+            </p>
+          </div>
         </div>
-      </footer> */}
+      </footer>
     </div>
   );
 }
